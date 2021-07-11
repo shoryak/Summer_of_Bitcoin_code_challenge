@@ -10,6 +10,5 @@ may have one or more **parent** transactions which are also in the mempool.
 mempool may be included in the list, but only if all of their parents appear before them in the list.
 
 - Naturally, the miner would like to include the transactions that maximize the total fee.
-- 
 
 This repo contains code of my program which outputs txids, separated by newlines, which make a valid block(satisfying all constraints), maximizing the fee to the miner.
