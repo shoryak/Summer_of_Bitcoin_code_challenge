@@ -1,4 +1,4 @@
-# Summer_of_Bitcoin_code_challenge
+# Optimal Selection of Transactions in next Block
 
 ## Optimal selection problem
 - Bitcoin miners construct blocks by selecting a set of **transactions** from their mempool. Each transaction in the mempool:
